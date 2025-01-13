@@ -11,7 +11,7 @@ Os operadores aritméticos são usados para realizar operações matemáticas b�
 | -------- | --------------- |
 | +        | Soma            |
 | -        | Subtração       |
-| *       | Multiplicação   |
+| *        | Multiplicação   |
 | /        | Divisão Interia |
 | %        | Módulo          |
 | ++       | Incremento      |
