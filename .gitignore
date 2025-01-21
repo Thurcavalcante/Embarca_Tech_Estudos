@@ -1,1 +1,2 @@
-PDF
+# Ignore all .pdf files in all directories
+*/*.pdf 
