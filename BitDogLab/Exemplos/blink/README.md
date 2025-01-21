@@ -1,11 +1,11 @@
 # Configurações do projeto
 
 1. Ir na extensão CMake > Configure > Pico e selecionar a opção **Pico using compile**
-![alt text](./img/image.png)
+![alt text](./img/image01.png)
 
 2. Compilação do projeto: Clique na extenssão do **Raspbarry Pi Pico**
 - Selecione **Compile Project**, feito isso, ira compilar seu projeto e sera mostrado no terminal, após a compilação clique em qualquer tecla no terinal para fechalo.
-![alt text](image.png)
+![alt text](./img/image02.png)
 
 - Voltando em explore (file), varios arquivos foram criados na pasta **build**, usaremos o que tem extensão `.uf2`, nesse caso do projeto blink, `blink.uf2`
 
